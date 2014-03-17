@@ -1,0 +1,12 @@
+db:
+    host : localhost
+    port : 3306
+    user : andresantos
+    passwd : paperlikeyou
+    db : geneontology
+simulation:
+    interactions: 1000
+    ontology: P
+    significance: 0.1
+resources:
+    genes: resources/allgenes
